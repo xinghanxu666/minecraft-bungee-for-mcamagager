@@ -1,0 +1,6 @@
+# config.yml
+#作者QQ群：664085606
+apiUrl: http://面板地址/api/protected_instance/open
+uuid: 应用实例ID(UID
+remoteUuid: 节点ID（GID
+apikey: 有能管理改实例的API
